@@ -62,4 +62,3 @@ B = 2 + int(A/4) - A
 JD = 1720994.5 + int(365.25*Th) + int(30.60001*(Bln+1)) + B + D
 
 print('\nJadi',D,M,Y,'=','JDE',JD)
-input('Apakah hasil benar?: ')
