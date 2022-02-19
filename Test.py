@@ -1,3 +1,0 @@
-# Vino
-
-print("Hello")
